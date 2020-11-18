@@ -651,3 +651,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-13.49.13:303][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.11.18-13.49.13:325][  0]LogSlate: Took 0.001632 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.11.18-13.49.14:175][ 93]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.18-13.52.20:692][168]LogSlate: Window 'Source Control Login' being destroyed
+[2020.11.18-14.23.32:435][735]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.11.18-14.23.32:652][735]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
+[2020.11.18-14.23.33:444][735]LogLinker: Warning: Failed to load '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap': Can't resolve asset name
+[2020.11.18-14.23.33:449][735]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.18-14.23.33:549][736]LogSlate: Took 0.001606 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.18-14.23.38:494][287]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.11.18-14.23.38:498][287]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.11.18-14.23.38:505][287]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.11.18-14.23.38:505][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.18-14.23.40:238][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.11.18-14.23.40:268][473]LogSavePackage: Moving 'D:/matt/unreal/Intern1/TestProject/Saved/2DSideScrollerExampleMapE9659B0545867C41CC2AB1926D7CFE2D.tmp' to 'D:/matt/unreal/Intern1/TestProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2020.11.18-14.23.40:347][473]LogSavePackage: Moving 'D:/matt/unreal/Intern1/TestProject/Saved/2DSideScrollerExampleMap_BuiltDa4D29B13D47F28E1866375DB400AD8BBF.tmp' to 'D:/matt/unreal/Intern1/TestProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2020.11.18-14.23.40:369][473]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.18-14.23.40:369][473]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2020.11.18-14.23.40:369][473]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2020.11.18-14.23.41:896][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
